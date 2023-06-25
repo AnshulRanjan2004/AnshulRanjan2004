@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul</h1>
 <h3 align="center">An avid computer science aficionado.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshulranjan2004&label=Profile%20views&color=37ebaf&style=flat" alt="anshulranjan2004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshulRanjan2004&label=Profile%20views&color=37ebaf&style=flat" alt="AnshulRanjan2004" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulranjan2004" alt="anshulranjan2004" /></a> </p>
 
