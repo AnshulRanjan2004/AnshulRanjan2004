@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnshulRanjan2004&label=Profile%20views&color=37ebaf&style=flat" alt="AnshulRanjan2004" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshulranjan2004" alt="anshulranjan2004" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnshulRanjan2004" alt="AnshulRanjan2004" /></a> </p>
 
 - 🔭 I’m currently working on [AI and Natural Language Processing](https://research.pes.edu/cloud-computing-big-data/)
 
