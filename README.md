@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AnshulRanjan2004" alt="AnshulRanjan2004" /></a> </p>
 
-- 🔭 I’m currently working on [AI and Natural Language Processing](https://research.pes.edu/cloud-computing-big-data/)
+- 🔭 I’m currently working on LLM and NLP
 
-- 🌱 I’m currently learning **Neural Networks, Augmented Reality, and Reinforcement Learning.**
+- 🌱 I’m currently learning **How to Start an AI startup**
 
 - 👯 I’m looking to collaborate on **projects and innovative ideas.**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anshulranjan.vercel.app/projects](https://anshulranjan.vercel.app/projects)
 
-- 💬 Ask me about **React, ML and Linux**
+- 💬 Ask me about **LLM, Web Dev and Linux**
 
 - 📫 How to reach me **itsanshulranjan@gmail.com**
 
